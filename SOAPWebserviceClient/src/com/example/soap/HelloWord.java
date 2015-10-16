@@ -28,7 +28,6 @@ import javax.xml.bind.annotation.XmlType;
 })
 public class HelloWord {
     protected String arg0;
-
     /**
      * Gets the value of the arg0 property.
      * 
