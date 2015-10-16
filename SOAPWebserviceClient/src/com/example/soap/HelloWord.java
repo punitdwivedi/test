@@ -28,7 +28,6 @@ import javax.xml.bind.annotation.XmlType;
     "arg0"
 })
 public class HelloWord {
-
     protected String arg0;
 
     /**
