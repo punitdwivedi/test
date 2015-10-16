@@ -20,8 +20,7 @@ import javax.xml.bind.annotation.XmlType;
  *     &lt;/restriction>
  *   &lt;/complexContent>
  * &lt;/complexType>
- * </pre> 
- * 
+ * </pre>  
  */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "helloWord", propOrder = {
